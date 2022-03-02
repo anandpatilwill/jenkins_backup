@@ -1,0 +1,7 @@
+main() {
+	big();	
+	fact();
+	reverse();
+
+
+}
